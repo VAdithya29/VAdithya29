@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adithya
-- 👀 I’m interested in Data Analytics, Data Science and Fullstack Development
+- 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently pursuing Master in Data and Computational Science from University College Dublin.
 - 💞️ I’m looking to collaborate on any kind of project!
 
